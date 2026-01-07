@@ -35,6 +35,6 @@ README.md        → project documentation
 
 
 
-# 🖼️ Dashboard Preview
+# Dashboard Preview
 
 
