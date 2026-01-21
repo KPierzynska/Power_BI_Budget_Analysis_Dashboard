@@ -39,4 +39,7 @@ README.md        → project documentation
 
 # Dashboard Preview
 
+<img width="2300" height="1292" alt="image" src="https://github.com/user-attachments/assets/e68a9335-d9f4-4b66-8152-8a84617a76a4" />
+
+
 
