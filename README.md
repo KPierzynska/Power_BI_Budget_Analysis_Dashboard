@@ -16,6 +16,7 @@ The dataset used in this project comes from:
 - **Google Docs** – source of the personal budget data (bank balances, investments, monthly changes)
 - **Google Finance currency data** – EUR → PLN exchange rate retrieved from
 https://www.google.com/finance/markets/currencies
+
 The exchange rate is refreshed automatically whenever the report is updated, ensuring that all EUR values are converted to PLN using the latest available rate.
 
 # Key Features
